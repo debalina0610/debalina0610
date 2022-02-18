@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Debalina Goswami
 
-<p align="center">
-  <em><strong>Welcome to my profile. Glad to see you... 😊 </strong></em>
+<p align="center" style="font-size:50px">
+    <em><strong>Welcome to my profile. Glad to see you... 😊 </strong></em>
   </p>
 
 <!--
@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 # About Me
 
-*Hi, my name is Debalina Goswami. <br />
-I am an undergraduate B. Tech (CSE) student,<br /> from Maulana Abul Kalam Azad University of Technology, West Bengal,<br />
-passionate about Open Source and building community.<br />
-My fields and expertise lies in Competitive Coding. <br />
+*Hi, my name is **Debalina Goswami**. <br />
+I am an undergraduate **B. Tech (CSE) student**,<br /> from **Maulana Abul Kalam Azad University of Technology, West Bengal**,<br />
+an aspiring **Software Developer**. <br /> I have a passion for learning and sharing my knowledge with others.<br />
+My fields and expertise lies in **Competitive Coding**. <br />
 I am a growing **Android Developer**, preferably Java.<br />
-<br />*
+<br />*<br />
 ***“Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them.”***<br />
 <p align="center">
   <em>― William Shakespeare, Twelfth Night<br /></em>
