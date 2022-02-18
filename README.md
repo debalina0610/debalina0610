@@ -61,5 +61,5 @@ I am a growing **Android Developer**, preferably Java.<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debalina0610&show_icons=true&locale=en&layout=compact" alt="debalina0610" /></p>
 <br /><br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debalina0610&show_icons=true&locale=en" alt="debalina0610" /></p>
-<br /><br />
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debalina0610&" alt="debalina0610" /></p>
