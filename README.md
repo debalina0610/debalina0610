@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br />
+<img align="right" alt="Coding" width="300" height="300" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100010/126259709-cute-smiling-girl-sitting-at-laptop-and-learning-web-design-and-coding-vector-illustration-isolated-.jpg?ver=6">
 
 # About Me
 
 *Hi, my name is Debalina Goswami. <br />
-I am an undergraduate B. Tech (CSE) student, from Maulana Abul Kalam Azad University of Technology, West Bengal,<br />
+I am an undergraduate B. Tech (CSE) student,<br /> from Maulana Abul Kalam Azad University of Technology, West Bengal,<br />
 passionate about Open Source and building community.<br />
 My fields and expertise lies in Competitive Coding. <br />
 I am a growing **Android Developer**, preferably Java.<br />
@@ -33,8 +34,6 @@ I am a growing **Android Developer**, preferably Java.<br />
   <em>― William Shakespeare, Twelfth Night<br /></em>
   </p>
 <br />
-
-<img align="right" alt="Coding" width="400" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100010/126259709-cute-smiling-girl-sitting-at-laptop-and-learning-web-design-and-coding-vector-illustration-isolated-.jpg?ver=6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debalina0610&label=Profile%20views&color=0e75b6&style=flat" alt="debalina0610" /> </p>
 
