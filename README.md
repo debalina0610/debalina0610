@@ -36,13 +36,15 @@ I am a growing **Android Developer**, preferably Java.<br />
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debalina0610&label=Profile%20views&color=0e75b6&style=flat" alt="debalina0610" /> </p>
-🔭 I’m currently working on [Code Insight](https://github.com/C-a-thing/Code-Insight)
 
-- 📫 How to reach me - **debalina0610@gmail.com**
+- 🔭 I’m currently working on [Code Insight](https://github.com/C-a-thing/Code-Insight)
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/drive/folders/1kRwA_US_U8fK_VIWJBXZBq08MDrBUncy?usp=sharing)
+- 📫 How to reach me **debalina0610@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1kRwA_US_U8fK_VIWJBXZBq08MDrBUncy?usp=sharing)
 
 - ⚡ Fun fact **I love singing and photography.**
+
 
 <br />
 <h3 align="left">Connect with me:</h3>
