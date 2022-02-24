@@ -35,7 +35,8 @@ I am a growing **Android Developer**, preferably Java.<br />
   </p>
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debalina0610&label=Profile%20views&color=0e75b6&style=flat" alt="debalina0610" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debalina0610&label=Profile%20views&color=0e75b6&style=flat" alt="debalina0610" /> 
+</p>
 
 - 🔭 I’m currently working on [Code Insight](https://github.com/C-a-thing/Code-Insight)
 
