@@ -1,4 +1,4 @@
-## Hi there 👋, I am Debalina Goswami
+## Hi there 👋, I am Debalina Goswami  😸
 
 <p align="center" style="font-size:50px">
     <em><strong>Welcome to my profile. Glad to see you... 😊 </strong></em>
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
-<img align="right" alt="Coding" width="300" height="300" src="https://us.123rf.com/450wm/7romawka7/7romawka71901/7romawka7190100010/126259709-cute-smiling-girl-sitting-at-laptop-and-learning-web-design-and-coding-vector-illustration-isolated-.jpg?ver=6">
+<img align="right" alt="Coding" width="300" height="400" src="https://c.tenor.com/fRwU2Z3GKtgAAAAM/busy-working.gif">
 
 # About Me
 
