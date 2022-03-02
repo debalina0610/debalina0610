@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
-<img align="right" alt="Coding" width="300" height="400" src="https://c.tenor.com/fRwU2Z3GKtgAAAAM/busy-working.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://monophy.com/media/cmCEsJZHYBPels360q/monophy.gif">
 
 # About Me
 
